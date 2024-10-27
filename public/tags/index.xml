@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Iván Martínez</title>
-    <link>/tags/</link>
+    <link>https://imartinezcuevas.github.io/tags/</link>
     <description>Recent content in Tags on Iván Martínez</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imartinezcuevas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>/tags/ai/</link>
+      <link>https://imartinezcuevas.github.io/tags/ai/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/ai/</guid>
+      <guid>https://imartinezcuevas.github.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>/tags/artificial-intelligence/</link>
+      <link>https://imartinezcuevas.github.io/tags/artificial-intelligence/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/artificial-intelligence/</guid>
+      <guid>https://imartinezcuevas.github.io/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Linear Regression</title>
-      <link>/tags/linear-regression/</link>
+      <link>https://imartinezcuevas.github.io/tags/linear-regression/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/linear-regression/</guid>
+      <guid>https://imartinezcuevas.github.io/tags/linear-regression/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://imartinezcuevas.github.io/tags/machine-learning/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/machine-learning/</guid>
+      <guid>https://imartinezcuevas.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>/tags/python/</link>
+      <link>https://imartinezcuevas.github.io/tags/python/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/python/</guid>
+      <guid>https://imartinezcuevas.github.io/tags/python/</guid>
       <description></description>
     </item>
   </channel>

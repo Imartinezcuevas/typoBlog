@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Iván Martínez</title>
-    <link>/posts/</link>
+    <link>https://imartinezcuevas.github.io/posts/</link>
     <description>Recent content in Posts on Iván Martínez</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imartinezcuevas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linear Regression</title>
-      <link>/posts/linear-regression/</link>
+      <link>https://imartinezcuevas.github.io/posts/linear-regression/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/linear-regression/</guid>
+      <guid>https://imartinezcuevas.github.io/posts/linear-regression/</guid>
       <description>A comprehensive introduction to linear regression, exploring its fundamental concepts and mathematical foundations.</description>
     </item>
   </channel>
