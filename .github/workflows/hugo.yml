@@ -69,7 +69,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://imartinezcuevas.github.io"
+      url: "https://imartinezcuevas.github.io/"
     runs-on: ubuntu-latest
     needs: build
     steps:
