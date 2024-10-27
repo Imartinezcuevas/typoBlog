@@ -1,0 +1,84 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Iván Martínez'
+theme = 'typo'
+
+# # # Disable tags
+# disableKinds = ['taxonomy']
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Home meta description
+description = "A ML-oriented personal blog by Ivan Martinez."
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = true
+
+# Intro on main page, content in markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+I'm a Spanish data scientist with a deep interest in artificial intelligence and mathematics. 
+Through this blog, I aim to share what I'm learning and contribute to my growth as well as to those who share similar interests.
+\\
+Feel free to read [about myself](/about) or to look at my [posts](/posts).
+"""
+
+singleDateFormat = '2 Jan 2006'
+
+# Collection to display on home
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '02 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+showFooter = true
+#footerContent = """© Iván Martínez · Powered by Hugo and tomfran/typo"""
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/ivan-martinez-cuevas/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/Imartinezcuevas"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'bw'
+
+# Deploy settings
+
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
