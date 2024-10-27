@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = "https://imartinezcuevas.github.io/"
 languageCode = 'en-us'
 title = 'Iván Martínez'
 theme = 'typo'
